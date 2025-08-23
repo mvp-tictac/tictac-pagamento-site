@@ -1,0 +1,68 @@
+{
+	"pages": {
+		"HomePage": {
+			"HeroSection": {
+				"div": {
+				  "leftDiv": {
+					"title": "Faster, safer, simpler – welcome to TicTac Pagamentos",
+					"description": "Managing money can be challenging, but with TicTac Pagamentos, it's fast, secure, and convenient. Make instant transfers, pay your bills with QR Code or barcode, and have full control of your financial life in just a few taps.",
+					"emailPlaceHolder": "Enter your email to get started",
+					"signUpButtonText": "Sign Up"
+				  },
+				  "rightDiv": {
+					"paymentText": "Payment successfully completed",
+					"transferText": "Transfer received",
+					"altText": "Image of a person holding a phone with the app logo"
+				  }
+				}
+			  }
+		}
+	},
+
+	"components": {
+		"navMenu": {
+			"menu": {
+				"ForYou": "For You",
+				"Business": "For Your Business",
+				"About": "About TicTac",
+				"Blog": "Blog",
+				"Help": "Help"
+			},
+			"subMenu": {
+				"PersonalAccount": {
+					"title": "Digital Account",
+					"description": "Your fast and secure account to manage your money effortlessly. Simple, quick, and convenient!"
+				},
+				"PersonalTransaction": {
+					"title": "Transactions",
+					"description": "Send, receive, and pay in seconds with total security. Your operations, without barriers."
+				},
+				"PersonalFinancialManagement": {
+					"title": "Financial Control",
+					"description": "Manage your expenses and save wisely. More control, more freedom for you!"
+				},
+				"PersonalRewards": {
+					"title": "TicTac Rewards",
+					"description": "Use, accumulate, and earn! Exclusive benefits that turn every transaction into an advantage."
+				},
+				"BusinessAccount": {
+					"title": "Business Account",
+					"description": "An account designed to help your business grow. Fast, secure, and hassle-free!"
+				},
+				"BusinessPaymentSolution": {
+					"title": "Payment Solutions",
+					"description": "Receive and pay with ease. Multiple options to boost your sales with security."
+				},
+				"BusinessFinancialManagement": {
+					"title": "Financial Management",
+					"description": "Full control of your cash flow in one place. Smart finance management, faster decisions."
+				}
+			}
+		},
+		"buttons": {
+			"getStartedBtn": {
+				"Label": "Get Started"
+			}
+		}
+	}
+}

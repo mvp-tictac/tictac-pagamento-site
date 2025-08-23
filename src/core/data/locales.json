@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"isoCode": "pt",
+		"language": "Português"
+	},
+	{
+		"id": 2,
+		"isoCode": "en",
+		"language": "English"
+	},
+	{
+		"id": 3,
+		"isoCode": "fr",
+		"language": "Français"
+	},
+	{
+		"id": 4,
+		"isoCode": "es",
+		"language": "Espanõl"
+	}
+]

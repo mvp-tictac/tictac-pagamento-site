@@ -1,0 +1,68 @@
+{
+	"pages": {
+		"HomePage": {
+			"HeroSection": {
+				"div": {
+					"leftDiv": {
+						"title": "Más rápido, más seguro, más simple – bienvenido a TicTac Pagamentos",
+						"description": "Gestionar dinero puede ser un desafío, pero con TicTac Pagamentos, es rápido, seguro y conveniente. Haz transferencias instantáneas, paga tus facturas con código QR o código de barras y ten control total de tu vida financiera con solo unos toques.",
+						"emailPlaceHolder": "Ingresa tu correo electrónico para comenzar",
+						"signUpButtonText": "Regístrate"
+					},
+					"rightDiv": {
+						"paymentText": "Pago realizado con éxito",
+						"transferText": "Transferencia recibida",
+						"altText": "Imagen de una persona sosteniendo un celular con el logotipo de la aplicación"
+					}
+				}
+			}
+		}
+	},
+
+	"components": {
+		"navMenu": {
+			"menu": {
+				"ForYou": "Para Ti",
+				"Business": "Para Tu Negocio",
+				"About": "Acerca de TicTac",
+				"Blog": "Blog",
+				"Help": "Ayuda"
+			},
+			"subMenu": {
+				"PersonalAccount": {
+					"title": "Cuenta Digital",
+					"description": "Tu cuenta rápida y segura para gestionar tu dinero sin complicaciones. ¡Simple, rápida y conveniente!"
+				},
+				"PersonalTransaction": {
+					"title": "Transacciones",
+					"description": "Envía, recibe y paga en segundos con total seguridad. Tus operaciones, sin límites."
+				},
+				"PersonalFinancialManagement": {
+					"title": "Control Financiero",
+					"description": "Gestiona tus gastos y ahorra con inteligencia. ¡Más control, más libertad para ti!"
+				},
+				"PersonalRewards": {
+					"title": "TicTac Recompensas",
+					"description": "Usa, acumula y gana. Beneficios exclusivos que convierten cada transacción en una ventaja."
+				},
+				"BusinessAccount": {
+					"title": "Cuenta Empresarial",
+					"description": "Una cuenta diseñada para hacer crecer tu negocio. ¡Rápida, segura y sin complicaciones!"
+				},
+				"BusinessPaymentSolution": {
+					"title": "Soluciones de Pago",
+					"description": "Recibe y paga con facilidad. Múltiples opciones para impulsar tus ventas con seguridad."
+				},
+				"BusinessFinancialManagement": {
+					"title": "Gestión Financiera",
+					"description": "Control total de tu flujo de caja en un solo lugar. Inteligencia financiera para decisiones más rápidas."
+				}
+			}
+		},
+		"buttons": {
+			"getStartedBtn": {
+				"Label": "Comenzar"
+			}
+		}
+	}
+}

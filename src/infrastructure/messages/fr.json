@@ -1,0 +1,68 @@
+{
+	"pages": {
+		"HomePage": {
+			"HeroSection": {
+				"div": {
+					"leftDiv": {
+						"title": "Plus rapide, plus sûr, plus simple – bienvenue chez TicTac Pagamentos",
+						"description": "Gérer de l'argent peut être un défi, mais avec TicTac Pagamentos, c'est rapide, sûr et pratique. Effectuez des transferts instantanés, payez vos factures avec un code QR ou un code-barres et prenez le contrôle total de votre vie financière en quelques clics.",
+						"emailPlaceHolder": "Entrez votre e-mail pour commencer",
+						"signUpButtonText": "Inscrivez-vous"
+					},
+					"rightDiv": {
+						"paymentText": "Paiement effectué avec succès",
+						"transferText": "Transfert reçu",
+						"altText": "Image d'une personne tenant un téléphone avec le logo de l'application"
+					}
+				}
+			}
+		}
+	},
+
+	"components": {
+		"navMenu": {
+			"menu": {
+				"ForYou": "Pour Vous",
+				"Business": "Pour Votre Entreprise",
+				"About": "À propos de TicTac",
+				"Blog": "Blog",
+				"Help": "Aide"
+			},
+			"subMenu": {
+				"PersonalAccount": {
+					"title": "Compte Digital",
+					"description": "Votre compte rapide et sécurisé pour gérer votre argent en toute simplicité. Simple, rapide et pratique !"
+				},
+				"PersonalTransaction": {
+					"title": "Transactions",
+					"description": "Envoyez, recevez et payez en quelques secondes en toute sécurité. Vos opérations, sans limites."
+				},
+				"PersonalFinancialManagement": {
+					"title": "Gestion Financière",
+					"description": "Gérez vos dépenses et économisez intelligemment. Plus de contrôle, plus de liberté pour vous !"
+				},
+				"PersonalRewards": {
+					"title": "TicTac Récompenses",
+					"description": "Utilisez, cumulez et gagnez ! Des avantages exclusifs qui transforment chaque transaction en opportunité."
+				},
+				"BusinessAccount": {
+					"title": "Compte Entreprise",
+					"description": "Un compte conçu pour faire grandir votre entreprise. Rapide, sécurisé et sans tracas !"
+				},
+				"BusinessPaymentSolution": {
+					"title": "Solutions de Paiement",
+					"description": "Recevez et payez facilement. De multiples options pour dynamiser vos ventes en toute sécurité."
+				},
+				"BusinessFinancialManagement": {
+					"title": "Gestion Financière",
+					"description": "Un contrôle total de votre trésorerie en un seul endroit. Une gestion intelligente pour des décisions plus rapides."
+				}
+			}
+		},
+		"buttons": {
+			"getStartedBtn": {
+				"Label": "Commencer"
+			}
+		}
+	}
+}
