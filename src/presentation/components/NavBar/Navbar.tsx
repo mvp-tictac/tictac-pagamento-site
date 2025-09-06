@@ -10,13 +10,13 @@ import { Container } from "@/presentation/layouts";
 function Navbar() {
   const t = useTranslations("components.buttons.getStartedBtn");
   return (
-    <div className="border-b-accent fixed z-50 top-0  mx-auto flex  w-full  border-b-2 shadow-sm bg-secondary">
-      <Container className="py-4 justify-between">
+    <div className="border-b-accent bg-background fixed z-50 top-0  mx-auto flex  w-full  border-b-2 shadow-sm ">
+      <Container className="py-2 justify-between">
         <div className="hover:cursor-pointer">
           <Logo />
         </div>
         <Navigatior />
-        <div className="flex gap-x-4">
+        <div className="flex gap-x-4 items-center">
           <LocaleChange />
           <Button className="flex cursor-pointer items-center justify-center">
             {t("Label")}

@@ -30,7 +30,7 @@ export default async function RootLayout({
   return (
     <NextIntlClientProvider messages={messages}>
       <html lang="en">
-        <body className={`bg-blue-200`}>
+        <body className={``}>
           <header>
             <Navbar />
           </header>

@@ -1,71 +1,71 @@
 {
-	"pages": {
-		"HomePage": {
-			"HeroSection": {
-				"div": {
-					"leftDiv": {
-						"title": "Mais rápido, mais seguro, mais simples – bem-vindo à TicTac Pagamentos",
-						"description": "Gerenciar dinheiro pode ser desafiador, mas com a TicTac Pagamentos, é rápido, seguro e conveniente. Faça transferências instantâneas, pague suas contas com QR Code ou código de barras e tenha total controle da sua vida financeira em poucos toques.",
-						"emailPlaceHolder": "Digite seu email para começar",
-						"signUpButtonText": "Registre-se"
-					},
-					"rightDiv": {
-						"paymentText": "Pagamento realizado com sucesso",
-						"transferText": "Transferência recebida",
-						"altText": "Imagem de uma pessoa segurando um celular com logotipo do aplicativo"
-					}
-				}
-			}
-		}
-	},
+  "pages": {
+    "HomePage": {
+      "HeroSection": {
+        "div": {
+          "leftDiv": {
+            "title": "Mais rápido, mais seguro, mais simples – bem-vindo à TicTac Pagamentos",
+            "description": "Gerenciar dinheiro pode ser desafiador, mas com a TicTac Pagamentos, é rápido, seguro e conveniente. Faça transferências instantâneas, pague suas contas com QR Code ou código de barras e tenha total controle da sua vida financeira em poucos toques.",
+            "emailPlaceHolder": "Digite seu email para começar",
+            "signUpButtonText": "Registre-se"
+          },
+          "rightDiv": {
+            "paymentText": "Pagamento realizado com sucesso",
+            "transferText": "Transferência recebida",
+            "altText": "Imagem de uma pessoa segurando um celular com logotipo do aplicativo"
+          }
+        }
+      }
+    }
+  },
 
-	"components": {
-		"navMenu": {
-			"menu": {
-				"ForYou": "Para você",
-				"Business": "Para seu negócio",
-				"About": "Sobre TicTac",
-				"Blog": "Blog",
-				"Help": "Ajuda"
-			},
-			"subMenu": {
-				"PersonalAccount": {
-					"title": "Conta Digital",
-					"description": "Sua conta ágil e segura para movimentar seu dinheiro sem complicação. Simples, rápida e conveniente!"
-				},
-				"PersonalTransaction": {
-					"title": "Transações",
-					"description": "Envie, receba e pague em segundos, com total segurança. Suas operações, sem barreiras."
-				},
-				"PersonalFinancialManagement": {
-					"title": "Controle Financeiro",
-					"description": "Gerencie seus gastos e economize com inteligência. Mais controle, mais liberdade para você!"
-				},
+  "components": {
+    "navMenu": {
+      "menu": {
+        "ForYou": "Para você",
+        "Business": "Para seu negócio",
+        "About": "Sobre TicTac",
+        "Blog": "Blog",
+        "Help": "Ajuda"
+      },
+      "subMenu": {
+        "PersonalAccount": {
+          "title": "Conta Digital",
+          "description": "Sua conta ágil e segura para movimentar seu dinheiro sem complicação. Simples, rápida e conveniente!"
+        },
+        "PersonalTransaction": {
+          "title": "Transações",
+          "description": "Envie, receba e pague em segundos, com total segurança. Suas operações, sem barreiras."
+        },
+        "PersonalFinancialManagement": {
+          "title": "Controle Financeiro",
+          "description": "Gerencie seus gastos e economize com inteligência. Mais controle, mais liberdade para você!"
+        },
 
-				"PersonalRewards": {
-					"title": "TicTac Recompensas",
-					"description": "Use, acumule e ganhe! Benefícios exclusivos que transformam cada transação em vantagem."
-				},
+        "PersonalRewards": {
+          "title": "TicTac Recompensas",
+          "description": "Use, acumule e ganhe! Benefícios exclusivos que transformam cada transação em vantagem."
+        },
 
-				"BusinessAccount": {
-					"title": "Conta Empresa",
-					"description": "Uma conta feita para o seu negócio crescer. Rápida, segura e sem burocracia!"
-				},
+        "BusinessAccount": {
+          "title": "Conta Empresa",
+          "description": "Uma conta feita para o seu negócio crescer. Rápida, segura e sem burocracia!"
+        },
 
-				"BusinessPaymentSolution": {
-					"title": "Soluções de Pagamento",
-					"description": "Receba e pague com facilidade. Diversas opções para impulsionar suas vendas com segurança."
-				},
-				"BusinessFinancialManagement": {
-					"title": "Gerenciamento Financeiro",
-					"description": "Controle total do seu caixa em um só lugar. Inteligência para suas finanças, agilidade para suas decisões."
-				}
-			}
-		},
-		"buttons": {
-			"getStartedBtn": {
-				"Label": "Começar"
-			}
-		}
-	}
+        "BusinessPaymentSolution": {
+          "title": "Soluções de Pagamento",
+          "description": "Receba e pague com facilidade. Diversas opções para impulsionar suas vendas com segurança."
+        },
+        "BusinessFinancialManagement": {
+          "title": "Gerenciamento Financeiro",
+          "description": "Controle total do seu caixa em um só lugar. Inteligência para suas finanças, agilidade para suas decisões."
+        }
+      }
+    },
+    "buttons": {
+      "getStartedBtn": {
+        "Label": "Registre-se"
+      }
+    }
+  }
 }

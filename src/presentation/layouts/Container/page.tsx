@@ -2,7 +2,7 @@ import React, { HTMLAttributes, ReactNode } from "react";
 import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/presentation/lib/utils";
 
-export const ContainerT = cva("container-w px-16 lg:gap-x-6 ", {
+export const ContainerT = cva("container-w ", {
   variants: {
     display: {
       flex: "flex",
@@ -34,10 +34,8 @@ export interface ContainerProps
 }
 function Container({ children, display, className, ...props }: ContainerProps) {
   return (
-    <div className="w-full">
-      <div className={cn(ContainerT({ display }), className)} {...props}>
-        {children}
-      </div>
+    <div className={cn(ContainerT({ display }), className)} {...props}>
+      {children}
     </div>
   );
 }

@@ -1,7 +1,9 @@
 "use client";
 import { TodoService } from "@/core/application/services";
+import HomePage from "@/presentation/layouts/pages/home";
 import { Button } from "@/presentation/components/ui/button";
 import Container from "@/presentation/layouts/Container/page";
+import Section from "@/presentation/layouts/Section/Section";
 import { useTranslations } from "next-intl";
 import { useEffect } from "react";
 
@@ -19,25 +21,8 @@ export default function Home() {
     fetching();
   }, []);
   return (
-    <Container display="grid" className=" bg-slate-200 py-2">
-      <div className="h-[150px] w-[250] bg-blue-600">
-        <p>Hello world</p>
-      </div>
-      <div className="h-[150px] w-[250] bg-blue-600">
-        <p>Hello world</p>
-      </div>
-      <div className="h-[150px] w-[250] bg-blue-600">
-        <p>Hello world</p>
-      </div>
-      <div className="h-[150px] w-[250] bg-blue-600">
-        <p>Hello world</p>
-      </div>
-      <div className="h-[150px] w-[250] bg-blue-600">
-        <p>Hello world</p>
-      </div>
-      <div className="h-[150px] w-[250] bg-blue-600">
-        <p>Hello world</p>
-      </div>
-    </Container>
+    <>
+      <HomePage />
+    </>
   );
 }

@@ -65,7 +65,7 @@ function Toast({
     {
       className: "flex flex-col",
       closeButton: true,
-      duration: 10000,
+      duration: 2000,
     }
   );
 }

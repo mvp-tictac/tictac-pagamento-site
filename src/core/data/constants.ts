@@ -63,5 +63,22 @@ export const menu = [
   {
     title: "Blog",
     url: "/blog",
+    submenu: [
+      {
+        submenuKey: "PersonalAccount",
+        href: "/alguma-coisa-1",
+        icon: Landmark,
+      },
+      {
+        submenuKey: "PersonalAccount",
+        href: "/alguma-coisa-2",
+        icon: Landmark,
+      },
+      {
+        submenuKey: "PersonalAccount",
+        href: "/alguma-coisa-3",
+        icon: Landmark,
+      },
+    ],
   },
 ];

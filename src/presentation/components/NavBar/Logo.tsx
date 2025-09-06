@@ -4,9 +4,22 @@ import React from "react";
 
 function Logo() {
   return (
-    <Text size="headlineSmall" color={"primary"} weight={"bold"}>
-      <Link href="/">TicTac</Link>
-    </Text>
+    <Link className="" href="/">
+      <div className="flex">
+        <Text size="headlineSmall" color={"primary"} weight={"bold"}>
+          Ti
+        </Text>
+        <Text size="headlineSmall" color={"secondary"} weight={"bold"}>
+          c
+        </Text>
+        <Text size="headlineSmall" color={"primary"} weight={"bold"}>
+          Tac
+        </Text>
+      </div>
+      <Text size={"labelLarge"} color={"secondary"} weight={"light"}>
+        Pagamentos
+      </Text>
+    </Link>
   );
 }
 
